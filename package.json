@@ -20,7 +20,7 @@
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
     "@bioenrichment/config": "^0.1.0",
-    "@bioenrichment/xrefdb-client": "^0.1.0",
+    "@bioenrichment/xrefdb-client": "^0.1.1",
     "ldf-facade": "^0.1.0"
   }
 }
