@@ -12,15 +12,15 @@
   "dependencies": {
     "bioterms": "^0.2.1",
     "body-parser": "^1.18.2",
-    "eri-config": "git+https://github.com/BioEnrichment/eri-config.git",
-    "eri-xrefdb-client": "git+https://github.com/BioEnrichment/eri-xrefdb-client.git",
     "esm": "^3.0.71",
     "express": "^4.16.2",
     "idiot-cache": "^0.1.0",
-    "ldf-facade": "git+https://github.com/BioEnrichment/ldf-facade.git",
     "libxmljs": "^0.18.7",
     "morgan": "^1.9.0",
     "request": "^2.83.0",
-    "request-promise": "^4.2.2"
+    "request-promise": "^4.2.2",
+    "@bioenrichment/config": "^0.1.0",
+    "@bioenrichment/xrefdb-client": "^0.1.0",
+    "ldf-facade": "^0.1.0"
   }
 }
